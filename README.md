@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on building my technical skill at ALX
 
 Skills 🔍 
-- SQL | Python | Power BI
+- Excel | SQL | Python | Power BI
 - Clinical data & evidence generation
 - Data cleaning, analysis & visualization
 

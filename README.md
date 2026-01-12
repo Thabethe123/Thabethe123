@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Vuyisile Thabethe from South Africa
-- 👀 I’m interested in Data Science and Airtificial Intelligence 
-- 🌱 I’m currently working on building my technical skill in Data Analytics
-- I am currently learning Data Analytics at ALX 
-- 💞️ I’m looking to collaborate on data analysis projects
-- You can ask me anything about my Data Analytics journey
-- 📫 How to reach me https://twitter.com/VuyisileThabet1
+ Hi, I’m Vuyisile Thabethe from South Africa👋
+- 👀 I’m a Medical Writer transitioning into Healthcare Data Analytics and Data Science 
+- 🌱 I’m currently working on building my technical skill at ALX
 
+Skills 🔍 
+- SQL | Python | Power BI
+- Clinical data & evidence generation
+- Data cleaning, analysis & visualization
+
+Portfolio Projects 📁
+- Clinical trial data cleaning & QC
+- Real-world healthcare data analysis
+- SQL-based analytics projects
+
+Contact details 📫
+LinkedIn: www.linkedin.com/in/vuyisile-thabethe-phd-b6575960
+Twitter: https://twitter.com/VuyisileThabet1  
